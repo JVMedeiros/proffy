@@ -6,7 +6,6 @@ import {Link} from 'react-router-dom';
 //Assets
 import logoImg from '../../assets/images/logo.svg';
 import backIcon from '../../assets/images/icons/back.svg';
-import { title } from 'process';
 
 //Styles
 import './styles.css';
